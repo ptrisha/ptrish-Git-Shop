@@ -1,2 +1,4 @@
-print(‘Hello world :D’)
+
+print("Hello ptrish :D")
+
 
